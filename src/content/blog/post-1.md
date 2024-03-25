@@ -64,4 +64,3 @@ The philosophical undercurrents in "The Shining" elevate it from a mere ghost st
 In "The Shining," Stephen King crafts a masterful blend of terror and introspection. This novel is not just a journey through a haunted hotel's corridors but a journey into the depths of the human soul. 
 
 It challenges readers to confront their deepest fears while offering a rich philosophical exploration of life, death, and what might lie beyond our understanding. King's work remains a timeless piece, bridging the gap between the horror genre and profound existential discourse.
-
