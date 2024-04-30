@@ -2,7 +2,7 @@
 
 <p align=center>Sanity books is a horror novel review blog.</p>
 
-<p align=center>Made with the Astroplate template made with ♥ by <a href="https://zeon.studio/">Zeon Studio</a></p>
+<img src="/public/favicon.svg" width="50" alt="Logo" />
 
 ## 🔗 Integrations
 
@@ -59,6 +59,8 @@ docker run -it --rm astroplate ash
 
 <!-- licence -->
 ## 📝 License
+
+<p align=center>Made with the Astroplate template made with ♥ by <a href="https://zeon.studio/">Zeon Studio</a></p>
 
 Copyright (c) 2023 - Present, Designed & Developed by [Zeon Studio](https://zeon.studio/)
 
