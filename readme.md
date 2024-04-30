@@ -2,7 +2,7 @@
 
 <p align=center>Sanity books is a horror novel review blog.</p>
 
-<img src="/public/favicon.svg" width="50" alt="Logo" />
+<img src="/public/pictures/bookblog.png" width="50" alt="Logo" />
 
 ## 🔗 Integrations
 
